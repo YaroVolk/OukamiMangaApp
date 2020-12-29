@@ -1,0 +1,166 @@
+{
+    "status": true,
+    "message": "success",
+    "manga_list": [
+        {
+            "title": "The Great Deity",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/03/Komik-The-Great-Deity.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "the-great-deity/",
+            "chapter": "Chapter 70"
+        },
+        {
+            "title": "Xianzun System in the City",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/04/Komik-Xianzun-System-in-the-City.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "xianzun-system-in-the-city/",
+            "chapter": "Chapter 107"
+        },
+        {
+            "title": "Super Keyboard Man",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/07/Komik-Super-Keyboard-Man-1.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "super-keyboard-man/",
+            "chapter": "Chapter 46"
+        },
+        {
+            "title": "Spirit Blade Mountain",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2019/05/Komik-Spirit-Blade-Mountain.png?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "spirit-blade-mountain/",
+            "chapter": "Chapter 168"
+        },
+        {
+            "title": "Release That Witch",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Release-That-Witch.png?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "release-that-witch/",
+            "chapter": "Chapter 203"
+        },
+        {
+            "title": "My Beautiful Time with You",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/11/Komik-My-Beautiful-Time-with-You.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "my-beautiful-time-with-you/",
+            "chapter": "Chapter 15"
+        },
+        {
+            "title": "Master of Legendary Realms",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/09/Komik-Master-of-Legendary-Realms.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "master-of-legendary-realms/",
+            "chapter": "Chapter 294"
+        },
+        {
+            "title": "Micah: The Blade",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/11/Komik-Micah-The-Blade.png?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "17 jam",
+            "endpoint": "micah-the-blade/",
+            "chapter": "Chapter 15"
+        },
+        {
+            "title": "Legend of Phoenix",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/02/Komik-Legend-of-Phoenix.png?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "17 jam",
+            "endpoint": "legend-of-phoenix/",
+            "chapter": "Chapter 26"
+        },
+        {
+            "title": "I Was Trash",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/02/Komik-I-Was-Trash.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "17 jam",
+            "endpoint": "i-was-trash/",
+            "chapter": "Chapter 203"
+        },
+        {
+            "title": "Demonic Housekeeper",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/07/Komik-Demonic-Housekeeper.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "17 jam",
+            "endpoint": "demonic-housekeeper/",
+            "chapter": "Chapter 49"
+        },
+        {
+            "title": "Heaven Defying Sword",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Heaven-Defying-Sword.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "17 jam",
+            "endpoint": "heaven-defying-sword/",
+            "chapter": "Chapter 95"
+        },
+        {
+            "title": "CEO’s Sudden Proposal",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/02/Komik-CEO’s-Sudden-Proposal.png?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "17 jam",
+            "endpoint": "ceos-sudden-proposal/",
+            "chapter": "Chapter 58"
+        },
+        {
+            "title": "Against the Gods",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Against-the-Gods.png?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "17 jam",
+            "endpoint": "against-the-gods/",
+            "chapter": "Chapter 238"
+        },
+        {
+            "title": "Battle Frenzy",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2019/04/Komik-Battle-Frenzy.png?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "17 jam",
+            "endpoint": "battle-frenzy/",
+            "chapter": "Chapter 133"
+        },
+        {
+            "title": "Lang Huan Library",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Lang-Huan-Library.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "18 jam",
+            "endpoint": "lang-huan-library/",
+            "chapter": "Chapter 63"
+        },
+        {
+            "title": "One Piece",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manga-One-Piece.jpg?resize=450,235&quality=60",
+            "type": "Manga",
+            "updated_on": "18 jam",
+            "endpoint": "one-piece-indonesia/",
+            "chapter": "Chapter 998 HD"
+        },
+        {
+            "title": "Aharen-san wa Hakarenai",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manga-Aharen-san-wa-Hakarenai.jpg?resize=450,235&quality=60",
+            "type": "Manga",
+            "updated_on": "18 jam",
+            "endpoint": "aharen-san-wa-hakarenai/",
+            "chapter": "Chapter 68"
+        },
+        {
+            "title": "Take Your Mommy Home",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/12/Komik-Take-Your-Mommy-Home.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "18 jam",
+            "endpoint": "take-your-mommy-home/",
+            "chapter": "Chapter 145"
+        },
+        {
+            "title": "Chuuko demo Koi ga Shitai!",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2019/02/Komik-chuuko-demo-koi-ga-shitai.jpg?resize=450,235&quality=60",
+            "type": "Manga",
+            "updated_on": "18 jam",
+            "endpoint": "chuuko-demo-koi-ga-shitai/",
+            "chapter": "Chapter 69"
+        }
+    ]
+}

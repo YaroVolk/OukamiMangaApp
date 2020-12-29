@@ -1,0 +1,166 @@
+{
+    "status": true,
+    "message": "success",
+    "manga_list": [
+        {
+            "title": "Iron Ladies",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Iron-Ladies.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "10 jam",
+            "endpoint": "iron-ladies/",
+            "chapter": "Chapter 345"
+        },
+        {
+            "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2019/06/Komik-Rougo-ni-Sonaete-Isekai-de-8-manmai-no-Kinka-wo-Tamemasu.jpg?resize=450,235&quality=60",
+            "type": "Manga",
+            "updated_on": "10 jam",
+            "endpoint": "rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu/",
+            "chapter": "Chapter 56"
+        },
+        {
+            "title": "Metropolitan Supremacy System",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Metropolitan-Supremacy-System.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "10 jam",
+            "endpoint": "metropolitan-supremacy-system/",
+            "chapter": "Chapter 176"
+        },
+        {
+            "title": "Zui Qiang Shen Wang",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2019/08/Komik-Zui-Qiang-Shen-Wang.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "10 jam",
+            "endpoint": "zui-qiang-shen-wang/",
+            "chapter": "Chapter 140"
+        },
+        {
+            "title": "Pregnant Wife, One Plus One",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/09/Komik-Pregnant-Wife-One-Plus-One.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "10 jam",
+            "endpoint": "pregnant-wife-one-plus-one/",
+            "chapter": "Chapter 58"
+        },
+        {
+            "title": "Black Clover",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manga-Black-Clover.jpg?resize=450,235&quality=60",
+            "type": "Manga",
+            "updated_on": "10 jam",
+            "endpoint": "black-clover-indonesia/",
+            "chapter": "Chapter 275"
+        },
+        {
+            "title": "Rebirth Of The Urban Immortal Cultivator",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/05/Rebirth-Of-The-Urban-Immortal-Cultivator.gif?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "14 jam",
+            "endpoint": "rebirth-of-the-urban-immortal-cultivator/",
+            "chapter": "Chapter 515"
+        },
+        {
+            "title": "Tales of Demons and Gods",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Tales-of-Demons-and-Gods.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "14 jam",
+            "endpoint": "tales-demons-gods/",
+            "chapter": "Chapter 305"
+        },
+        {
+            "title": "Strongest System Yan Luo",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Strongest-System-Yan-Luo.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "14 jam",
+            "endpoint": "strongest-system-yan-luo/",
+            "chapter": "Chapter 68"
+        },
+        {
+            "title": "The Sleepy Dragon Continent",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/05/Komik-The-Sleepy-Dragon-Continent.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "14 jam",
+            "endpoint": "the-sleepy-dragon-continent/",
+            "chapter": "Chapter 23"
+        },
+        {
+            "title": "The High Energy Attack",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/07/Komik-The-High-Energy-Attack.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "14 jam",
+            "endpoint": "the-high-energy-attack/",
+            "chapter": "Chapter 44"
+        },
+        {
+            "title": "Maou no musume, sugoku choroi",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/11/Komik-Maou-no-musume-sugoku-choroi.jpeg?resize=450,235&quality=60",
+            "type": "Manga",
+            "updated_on": "14 jam",
+            "endpoint": "maou-no-musume-sugoku-choroi/",
+            "chapter": "Chapter 08"
+        },
+        {
+            "title": "Apotheosis",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Apotheosis.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "15 jam",
+            "endpoint": "apotheosis-indonesia/",
+            "chapter": "Chapter 661"
+        },
+        {
+            "title": "The Developer System",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/05/Komik-The-Developer-System.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "15 jam",
+            "endpoint": "the-developer-system/",
+            "chapter": "Chapter 120"
+        },
+        {
+            "title": "Martial Peak",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Martial-Peak.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "15 jam",
+            "endpoint": "martial-peak/",
+            "chapter": "Chapter 694"
+        },
+        {
+            "title": "The Tutorial Tower of the Advanced Player",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/05/Komik-The-Tutorial-Tower-of-the-Advanced-Player.jpg?resize=450,235&quality=60",
+            "type": "Manhwa",
+            "updated_on": "16 jam",
+            "endpoint": "the-tutorial-tower-of-the-advanced-player/",
+            "chapter": "Chapter 32"
+        },
+        {
+            "title": "The Heaven’s List",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-The-Heavens-List.png?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "the-heavens-list/",
+            "chapter": "Chapter 49.5"
+        },
+        {
+            "title": "Tensei Kizoku no Isekai Boukenroku ~Jichou wo Shiranai Kamigami no Shit",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manga-Tensei-Kizoku-no-Isekai-Boukenroku-Jichou-wo-Shiranai-Kamigami-no-Shit.jpg?resize=450,235&quality=60",
+            "type": "Manga",
+            "updated_on": "16 jam",
+            "endpoint": "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shit/",
+            "chapter": "Chapter 27"
+        },
+        {
+            "title": "Very Pure",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/Manhua-Very-Pure.gif?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "very-pure/",
+            "chapter": "Chapter 84"
+        },
+        {
+            "title": "The Rebirth of the Demon God",
+            "thumb": "https://i0.wp.com/komiku.co.id/wp-content/uploads/2020/09/Komik-The-Rebirth-of-the-Demon-God.jpg?resize=450,235&quality=60",
+            "type": "Manhua",
+            "updated_on": "16 jam",
+            "endpoint": "the-rebirth-of-the-demon-god/",
+            "chapter": "Chapter 36"
+        }
+    ]
+}
