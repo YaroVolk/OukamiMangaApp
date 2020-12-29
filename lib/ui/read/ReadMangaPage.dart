@@ -1,11 +1,11 @@
 import 'dart:io';
 
+import 'package:Oukami/database/ComicData.dart';
 import 'package:Oukami/ui/read/BottomMenu.dart';
 import 'package:Oukami/ui/read/ContentPage.dart';
 import 'package:Oukami/ui/read/HeaderMenu.dart';
 import 'package:flutter/material.dart';
 import 'package:Oukami/database/ChapterReadedData.dart';
-import 'package:Oukami/database/comic_data.dart';
 import 'package:Oukami/database/HistoryData.dart';
 import 'package:Oukami/models/detail_chapter.dart';
 import 'package:Oukami/models/detail_comic.dart';

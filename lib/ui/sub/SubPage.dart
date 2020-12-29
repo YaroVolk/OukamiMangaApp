@@ -1,8 +1,8 @@
 import 'package:Oukami/config/Config.dart';
+import 'package:Oukami/database/ComicData.dart';
+import 'package:Oukami/models/OtherComic.dart';
 import 'package:Oukami/ui/sub/SubBody.dart';
 import 'package:flutter/material.dart';
-import 'package:Oukami/database/comic_data.dart';
-import 'package:Oukami/models/other_comic.dart';
 import 'package:gradient_app_bar/gradient_app_bar.dart';
 
 class SubPage extends StatefulWidget {

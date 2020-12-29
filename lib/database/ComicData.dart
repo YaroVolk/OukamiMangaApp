@@ -1,14 +1,15 @@
 import 'dart:convert';
 
 import 'package:Oukami/config/Database.dart';
+import 'package:Oukami/models/ComicV1.dart';
+import 'package:Oukami/models/ComicV2.dart';
+import 'package:Oukami/models/ComicV3.dart';
+import 'package:Oukami/models/OtherComic.dart';
+import 'package:Oukami/models/SearchResult.dart';
 import 'package:http/http.dart' as http;
-import 'package:Oukami/models/comic_v1.dart';
-import 'package:Oukami/models/comic_v2.dart';
-import 'package:Oukami/models/comic_v3.dart';
+
 import 'package:Oukami/models/detail_chapter.dart';
 import 'package:Oukami/models/detail_comic.dart';
-import 'package:Oukami/models/other_comic.dart';
-import 'package:Oukami/models/search_result.dart';
 
 class ComicData {
   static getHomeData() async {

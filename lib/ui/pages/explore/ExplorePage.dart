@@ -1,8 +1,8 @@
 import 'dart:ui';
 
 import 'package:Oukami/config/Config.dart';
-import 'package:Oukami/database/comic_data.dart';
-import 'package:Oukami/models/other_comic.dart';
+import 'package:Oukami/database/ComicData.dart';
+import 'package:Oukami/models/OtherComic.dart';
 import 'package:Oukami/ui/pages/explore/ExploreBanner.dart';
 import 'package:Oukami/ui/pages/explore/Tabs/ManhwaListTab.dart';
 import 'package:Oukami/ui/pages/explore/Tabs/ManhuaListTab.dart';

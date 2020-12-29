@@ -1,7 +1,7 @@
 import 'package:Oukami/bloc/BlocFavorite.dart';
+import 'package:Oukami/database/ComicData.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:hive/hive.dart';
-import 'package:Oukami/database/comic_data.dart';
 import 'package:Oukami/models/detail_chapter.dart';
 
 class HistoryData {
