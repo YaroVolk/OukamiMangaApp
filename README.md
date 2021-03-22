@@ -13,10 +13,7 @@ Oukami is flutter manga app with API from Comic Bahasa Indonesia.
 - [x] History 
 
 ## Screenshot
-<img src="assets/screenshots/1.png" width="30%"> <img src="assets/screenshots/2.png" width="30%">
-<img src="assets/screenshots/3.png" width="30%"> <img src="assets/screenshots/4.png" width="30%">
-<img src="assets/screenshots/5.png" width="30%"> <img src="assets/screenshots/6.png" width="30%">
-<img src="assets/screenshots/7.png" width="30%">
+![](https://firebasestorage.googleapis.com/v0/b/oukami-new.appspot.com/o/1.PNG?alt=media&token=ff759527-b68e-4e99-b08c-2a43dee40aaf)|![](https://i.imgur.com/OrObTLH.png)|![](https://i.imgur.com/LLYJz0u.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
